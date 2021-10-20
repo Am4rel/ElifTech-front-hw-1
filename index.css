@@ -306,3 +306,8 @@ body {
 .strength_button {
     padding: 14px 24px;
 }
+
+.final_link {
+    display: block;
+    text-align: center;
+}
